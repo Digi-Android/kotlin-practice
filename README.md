@@ -1,2 +1,4 @@
-# kotlin-practice
-Практичні заняття з мови Kotlin
+# Практикум з мови Kotlin
+
+## Практикум 1. Базовий синтаксис
+Посилання - https://classroom.github.com/a/JtPW4KjE
