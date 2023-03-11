@@ -1,4 +1,4 @@
 # Практикум з мови Kotlin
 
 ## Практикум 1. Базовий синтаксис
-Посилання - https://classroom.github.com/a/JtPW4KjE
+Посилання - https://classroom.github.com/a/afvIEMjG
